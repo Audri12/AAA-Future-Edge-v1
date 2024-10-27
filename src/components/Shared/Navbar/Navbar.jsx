@@ -1,6 +1,6 @@
 import { GoChevronDown } from "react-icons/go";
 import { MdOutlineFileDownload } from "react-icons/md";
-import logo from "../../../assets/logo/Future-Edge.jpg";
+import logo from "../../../assets/logo/Future-Edge_transparent.png";
 import { Link } from "react-router-dom";
 import toast from "react-hot-toast";
 

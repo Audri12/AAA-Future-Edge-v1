@@ -8,7 +8,7 @@ const HRConsultancy = () => {
         {/* Left Image */}
         <div className="w-full ">
           <img
-            src="https://i.postimg.cc/yd3qY7WH/Whats-App-Image-2022-03-16-at-9-58-23-AM.jpg" 
+            src="https://i.postimg.cc/PJq3F79k/15193514-10211374722787648-1014810833587725455-n.jpg" 
             alt="HR Consultancy"
             className="w-full justify-center object-cover rounded-lg mt-10 " 
           />

@@ -35,7 +35,7 @@ const WhyChooseUs = () => {
         </div>
         <div className="secondpart flex justify-center items-center">
           <img
-            src="https://lifeinnovior.org/wp-content/uploads/2022/11/Lifeinnovior-why-to-count-us.jpg"
+            src="https://i.postimg.cc/Cx8vtkPd/business-man-financial-inspector-secretary-making-report-calculating-checking-balance-internal-reven.jpg"
             alt="Reasons to choose our service"
             className="h-full object-cover"
           />

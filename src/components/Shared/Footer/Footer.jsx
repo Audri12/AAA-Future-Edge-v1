@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import logo from "../../../assets/logo/Future-Edge.jpg";
+import logo from "../../../assets/logo/Future-Edge_transparent.png";
 import email from "../../../assets/footer/email.png";
 import location from "../../../assets/footer/location.png";
 import telephone from "../../../assets/footer/telephone.png";
